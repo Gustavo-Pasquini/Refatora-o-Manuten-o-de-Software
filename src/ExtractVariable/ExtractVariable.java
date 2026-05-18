@@ -1,3 +1,5 @@
+package ExtractVariable;
+
 public class ExtractVariable {
     /*
         1. Encontra um teste lógico complexo ou utilizado em diversos lugares;

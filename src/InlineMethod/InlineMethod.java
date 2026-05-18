@@ -1,3 +1,5 @@
+package InlineMethod;
+
 public class InlineMethod {
     /*
         Não é necessário um método para expressões muito específicas e redundantes;

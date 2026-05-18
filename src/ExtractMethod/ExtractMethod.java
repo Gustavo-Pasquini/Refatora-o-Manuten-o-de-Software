@@ -1,3 +1,5 @@
+package ExtractMethod;
+
 spublic class ExtractMethod {
 
 /*
